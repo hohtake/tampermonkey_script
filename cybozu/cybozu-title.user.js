@@ -4,6 +4,7 @@
 // @version      0.2
 // @description  cybozu title easy!
 // @author       hohtake@opendoor.co.jp
+// @homepage     https://github.com/hohtake/tampermonkey_script/
 // @match        https://remote2.cybozu.co.jp/*
 // @match        http://cybozu/*
 // @grant        none

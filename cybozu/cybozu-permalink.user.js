@@ -4,6 +4,7 @@
 // @version      0.1
 // @description  permalink-ag.exe!
 // @author       hohtake@opendoor.co.jp
+// @homepage     https://github.com/hohtake/tampermonkey_script/
 // @match        https://remote2.cybozu.co.jp/*
 // @match        http://cybozu/*
 // @grant        none
